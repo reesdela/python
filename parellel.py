@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 x = [-3, -2, -1, 0, 1, 2, 3]
 y = []
-x1 = [-3, -2, -1, 0, 1, 2, 3]
+x1 = [-3, -2, -1, 0, 1, 8, 6]
 y2 = []
 
 for num in x:
